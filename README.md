@@ -1,4 +1,4 @@
-<div align=center><h1>Hi, I'm Cheoljin 👋</h1><div> 
+<div align=center><h1>Hi, I'm Cheoljin 👋</h1></div> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpcjin&show_icons=true&theme=radical)  
   
