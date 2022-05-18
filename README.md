@@ -1,6 +1,6 @@
 <div align=center><h1>Hi, I'm Cheoljin 👋</h1></div> 
 
-<h2>🛠 Skill Set</h2>
+<h2>🛠 Skillset</h2>
 <div>
 <h3>Backend</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
