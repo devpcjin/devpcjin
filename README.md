@@ -1,5 +1,4 @@
-<p align="center">![image](https://user-images.githubusercontent.com/103913683/168996271-0dfe71b2-068b-44c5-9534-d5c72ab81c87.png)</p>
-
+<p align="center"><img src="https://user-images.githubusercontent.com/103913683/168996271-0dfe71b2-068b-44c5-9534-d5c72ab81c87.png" width="100"/></p>
 <div align=center><h1>Cheoljin</h1></div> 
 
 ### :woman_technologist: &nbsp;About Me :
