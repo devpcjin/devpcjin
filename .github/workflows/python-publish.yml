@@ -35,6 +35,10 @@ jobs:
     - name: Update README
       run: |
         python main.py
+    - uses: actions/checkout@v2
+      with:
+        repository: devpcjin/devpcjin
+        token: ${{secrets.TOKEN}}
     - name: Commit README
       run: |
         git pull
