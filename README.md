@@ -1,3 +1,4 @@
+<p align="center"><img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://velog.io/@pc_jin"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 </p>
