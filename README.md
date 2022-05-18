@@ -59,13 +59,7 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 
 ---
 
-### ✒ Latest Post
-<div>
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pc_jin&color=dark)]([https://velog.io/@pc_jin/post-stats-update](https://velog-readme-stats.vercel.app/api?name=pc_jin&color=dark))
-  
-</div>
-
+### ✒ Latest Post in Velog
 <!--VELOG:START-->
 - [[TIL] 20220518 캠프 31일차](https://velog.io/@pc_jin/TIL-20220517-%EC%BA%A0%ED%94%84-31%EC%9D%BC%EC%B0%A8)
 
