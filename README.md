@@ -65,6 +65,11 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pc_jin&color=dark)]([https://velog.io/@pc_jin/post-stats-update](https://velog-readme-stats.vercel.app/api?name=pc_jin&color=dark))
   
 </div>
+
+<!--VELOG:START-->
+<!--VELOG:END-->
+
+
 <!--
 **devpcjin/devpcjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
