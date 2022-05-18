@@ -1,6 +1,6 @@
 import feedparser, datetime
 
-velog_blog_rss_uri="https://v2.velog.io/rss/@redcarrot01"
+velog_blog_rss_uri="https://v2.velog.io/rss/@pc_jin"
 feed = feedparser.parse(velog_blog_rss_uri)
 
 markdown_text = """
