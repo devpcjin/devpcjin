@@ -38,6 +38,6 @@ jobs:
         git add .
         git diff
         git config --local user.email "sgn03077@gmail.com"
-        git config --local user.name "${{secrets.TOKEN}}@devpcjin"
+        git config --local user.name "devpcjin"
         git commit -m "Update README.md"
         git push
