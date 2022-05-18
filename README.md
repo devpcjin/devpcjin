@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/103913683/168996271-0dfe71b2-068b-44c5-9534-d5c72ab81c87.png" width="1000"/></p>
+<p align="center"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="1000"/></p>
 <div align=center><h1>Cheoljin</h1></div> 
 
 ### :woman_technologist: &nbsp;About Me :
