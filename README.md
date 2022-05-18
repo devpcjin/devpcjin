@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600"/></p>
+<p align="center"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300" width="600"/></p>
 <div align=center><h1>Cheoljin</h1></div> 
 
 ### :woman_technologist: &nbsp;About Me :
