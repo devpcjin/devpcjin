@@ -34,7 +34,7 @@ jobs:
         python main.py
     - name: Commit README
       run: |
-        git remote set-url origin https://${{secrets.TOKEN}}@github.com/devpcjin
+        git remote set-url origin https://${{secrets.TOKEN}}@github.com/devpcjin/devpcjin.git
         git pull
         git add .
         git diff
