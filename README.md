@@ -1,8 +1,8 @@
-<div align=center><h1>Hi, Cheoljin 👋</h1></div>
 <p align="center">
 <a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
+<div align=center><h1>Hi, Cheoljin 👋</h1></div>
 <p align="center"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="250" width="500"/></p>
 
 ### :woman_technologist: &nbsp;About Me
