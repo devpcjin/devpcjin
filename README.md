@@ -60,7 +60,9 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 
 ### 💪 My Stats
 <div>
+  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert)](https://github.com/eungyeole/velog-readme-stats)
+  
 </div>
 <!--
 **devpcjin/devpcjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
