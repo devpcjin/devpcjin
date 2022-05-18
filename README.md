@@ -1,6 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://velog.io/@pc_jin"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+<a href="https://velog.io/@pc_jin"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </p>
 
 <div align=center><h1>Hi, I'm Cheoljin 👋</h1></div>
