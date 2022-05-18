@@ -49,7 +49,7 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 
 ---
 
-### 💪 My Stats
+### 💪⚙⚖ <i class="fa-solid fa-dumbbell"></i> My Stats
 <div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpcjin&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
