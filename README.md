@@ -54,9 +54,7 @@
 
 ### 💪 My Stats
 <div>
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devpcjin&theme=default&background=000000)](https://git.io/streak-stats) 
-  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpcjin&show_icons=true&theme=synthwave)
 </div>
 
 ---
