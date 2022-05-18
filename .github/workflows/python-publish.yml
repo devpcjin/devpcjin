@@ -6,14 +6,15 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: Upload Python Package
+name: README Updater
 
 on:
-  release:
-    types: [published]
-
-permissions:
-  contents: read
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  schedule:
+    - cron: "0 0 */1 * *"
 
 jobs:
   deploy:
