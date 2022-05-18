@@ -1,3 +1,5 @@
+
+
 <p align="center"><img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://velog.io/@pc_jin"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
@@ -49,7 +51,7 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 
 ---
 
-### 💪⚙⚖ <i class="fa-solid fa-dumbbell"></i> My Stats
+### 💪⚙⚖🏋‍♀🏋🏋‍♂🏆🥊 My Stats
 <div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpcjin&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
