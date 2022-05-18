@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Welcome&fontSize=90)
-
+<div align=center><h1>👋 Hi, I'm Cheoljin </h1><div> 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=pc_jin)](https://velog.io/@pc_jin) 
 
