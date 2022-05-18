@@ -16,7 +16,7 @@
 - ⚡ Fun fact: ...
 ---
 
-<h2>🛠 Skillset</h2>
+### 🛠 Skillset
 <div>
 <h3>Backend</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -36,19 +36,10 @@
 
 ---
 
-<h2>💪 My Stats</h3>
+### 💪 My Stats
 <div>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpcjin&show_icons=true&theme=radical)](https://github.com/devpcjin)  
-  
-</div>
-
----
-
-<h2>📕 Blog</h2>
-<div>
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=pc_jin)](https://velog.io/@pc_jin) 
   
 </div>
 
