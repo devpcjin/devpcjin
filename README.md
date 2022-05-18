@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=pc_jin)](https://velog.io/@pc_jin) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert)](https://github.com/eungyeole/velog-readme-stats)
 
 <!--
 **devpcjin/devpcjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
