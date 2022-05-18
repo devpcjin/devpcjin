@@ -1,4 +1,4 @@
-<div align=center><h1>Hi, I'm Cheoljin 👋</h1></div> 
+<div align=center><h1>Cheoljin's</h1></div> 
 
 <h2>🛠 Skillset</h2>
 <div>
