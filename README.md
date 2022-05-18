@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=200&section=header&text=Welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Welcome&fontSize=90)
 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=pc_jin)](https://velog.io/@pc_jin) 
