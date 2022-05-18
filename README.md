@@ -2,8 +2,9 @@
 
 <div align=center>
   
-![cheoljin's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpcjin&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devpcjin&layout=compact)](https://github.com/devpcjin)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohbyul&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)](https://github.com/metleeha)
+
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=pc_jin)](https://velog.io/@pc_jin) 
 </div>
