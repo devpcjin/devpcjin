@@ -1,6 +1,6 @@
 <div align=center><h1>Cheoljin</h1></div> 
 
-<p align="center"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="200" width="500"/></p>
+<p align="center"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="250" width="500"/></p>
 ### :woman_technologist: &nbsp;About Me :
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
