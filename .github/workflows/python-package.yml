@@ -10,9 +10,9 @@ name: README Updater
 
 on:
   push:
-    branches: main
+    branches: [ main ] 
   pull_request:
-    branches: main
+    branches: [ main ]
   schedule:
     - cron: "0 0 */1 * *"
 
@@ -37,7 +37,7 @@ jobs:
         git pull
         git add .
         git diff
-        git config --local user.email "action@gihtub.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "sgn03077@gmail.com"
+        git config --local user.name "devpcjin"
         git commit -m "Update README.md"
         git push
