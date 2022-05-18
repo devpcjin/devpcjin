@@ -2,7 +2,7 @@
 <a href="https://velog.io/@pc_jin"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 </p>
 
-<div align=center><h1>Hi, Cheoljin 👋</h1></div>
+<div align=center><h1>Hi, I'm Cheoljin 👋</h1></div>
 <p align="center"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="250" width="500"/></p>
 
 ### :woman_technologist: &nbsp;About Me
