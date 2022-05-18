@@ -15,7 +15,7 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 - 🌱 I’m currently learning Java and cooperation.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with 
-- 📫 How to reach me: <a href="mailto:"sgn03077@gmail.com><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+- 📫 How to reach me: <a href="mailto:sgn03077@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 ---
 
 ### 🛠 Skillset
