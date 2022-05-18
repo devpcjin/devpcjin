@@ -1,6 +1,6 @@
 <div align=center><h1>Hi, I'm Cheoljin 👋</h1></div> 
 
-<h1>Hi, I'm Cheoljin 👋</h1>
+<h2>🛠 Tech Stack</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpcjin&show_icons=true&theme=radical)](https://github.com/devpcjin)  
 
