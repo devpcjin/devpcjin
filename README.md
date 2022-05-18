@@ -22,11 +22,15 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
 
+<h3>💪 My Stats</h3>
+<div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpcjin&show_icons=true&theme=radical)](https://github.com/devpcjin)  
+</div>
 
+<h3>💪 My Stats</h3>
+<div>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=pc_jin)](https://velog.io/@pc_jin) 
-
-
+</div>
 
 
 <!--
