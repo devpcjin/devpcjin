@@ -1,4 +1,5 @@
-<div style="width:100%;height:0;padding-bottom:89%;position:relative;"><iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I">via GIPHY</a></p>
+<p align="center">![image](https://user-images.githubusercontent.com/103913683/168996271-0dfe71b2-068b-44c5-9534-d5c72ab81c87.png)</p>
+
 <div align=center><h1>Cheoljin</h1></div> 
 
 ### :woman_technologist: &nbsp;About Me :
