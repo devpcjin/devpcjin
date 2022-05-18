@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/devpcjin/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpcjin)](https://github.com/devpcjin/github-readme-stats)
 <!--
 **devpcjin/devpcjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
