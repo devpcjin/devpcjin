@@ -1,7 +1,10 @@
 <div align=center><h1>Hi, I'm Cheoljin 👋</h1></div> 
 
 <h2>🛠 Tech Stack</h2>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+<li>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+</li>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpcjin&show_icons=true&theme=radical)](https://github.com/devpcjin)  
 
