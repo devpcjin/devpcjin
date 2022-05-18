@@ -1,6 +1,6 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=30&section=header&text="Cheoljin" Park&fontSize=10)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpcjin)](https://github.com/devpcjin/github-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@pc_jin) 
 <!--
 **devpcjin/devpcjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
