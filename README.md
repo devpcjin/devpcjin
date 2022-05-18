@@ -1,4 +1,4 @@
-<div align=center><h1>👋 Hi, I'm Cheoljin </h1><div> 
+<div align=center><h1>Hi, I'm Cheoljin 👋</h1><div> 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=pc_jin)](https://velog.io/@pc_jin) 
 
