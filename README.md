@@ -1,9 +1,9 @@
 <div align=center><h1>Hi, I'm Cheoljin 👋</h1></div> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpcjin&show_icons=true&theme=radical)  
-  
+[!Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpcjin&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devpcjin&layout=compact)](https://github.com/devpcjin)  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=pc_jin)](https://velog.io/@pc_jin) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devpcjin&layout=compact)](https://github.com/devpcjin)
+
 
 <!--
 **devpcjin/devpcjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
