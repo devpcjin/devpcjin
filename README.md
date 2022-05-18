@@ -29,7 +29,7 @@
   
 </div>
 
-<h3>💪 My Stats</h3>
+<h2>📕 My Stats</h2>
 <div>
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=pc_jin)](https://velog.io/@pc_jin) 
