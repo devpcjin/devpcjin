@@ -16,10 +16,10 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: ${{ secrets.GIST_ID }}
         with:
-          VELOG_ID: "pc_jin"
-          GITHUB_ID: "devpcjin"
-          GITHUB_EMAIL: "sgn03077@gmail.com"
-          README_PATH: "README.md"
-          COMMIT_MSG: "Update README"
+          VELOG_ID: 'pc_jin'
+          GITHUB_ID: 'devpcjin'
+          GITHUB_EMAIL: 'sgn03077@gmail.com'
+          README_PATH: 'README.md'
+          COMMIT_MSG: 'Update README'
           LIMIT: 5
-          TYPE: "DOT"
+          TYPE: 'DOT'
