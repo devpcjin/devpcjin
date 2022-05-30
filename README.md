@@ -61,15 +61,15 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 
 ### ✒ Latest Post in Velog
 <!--VELOG:START-->
-- [[TIL] 20220526 캠프 40일차](https://velog.io/@pc_jin/TIL-20220526-%EC%BA%A0%ED%94%84-40%EC%9D%BC%EC%B0%A8)
+- [[TIL] 20220530 캠프 43일차](https://velog.io/@pc_jin/TIL-20220530-%EC%BA%A0%ED%94%84-43%EC%9D%BC%EC%B0%A8)
 
-- [[내배캠 실강] 서버리스 프론트엔드 2](https://velog.io/@pc_jin/%EB%82%B4%EB%B0%B0%EC%BA%A0-%EC%8B%A4%EA%B0%95-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-2)
+- [[내배캠 실강] 서버리스 백엔드 2](https://velog.io/@pc_jin/%EB%82%B4%EB%B0%B0%EC%BA%A0-%EC%8B%A4%EA%B0%95-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EB%B0%B1%EC%97%94%EB%93%9C-2)
 
-- [[TIL] 20220526 캠프 39일차](https://velog.io/@pc_jin/TIL-20220526-%EC%BA%A0%ED%94%84-39%EC%9D%BC%EC%B0%A8)
+- [[WIL] 주간 회고록 (20220523~ 20220529)](https://velog.io/@pc_jin/WIL-%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D-20220523-20220529)
 
-- [[TIL] 20220525 캠프 38일차](https://velog.io/@pc_jin/TIL-20220525-%EC%BA%A0%ED%94%84-38%EC%9D%BC%EC%B0%A8)
+- [[TIL] 20220527 캠프 40일차](https://velog.io/@pc_jin/TIL-20220526-%EC%BA%A0%ED%94%84-40%EC%9D%BC%EC%B0%A8)
 
-- [[내배캠 실강] 서버리스 프론트엔드 1](https://velog.io/@pc_jin/%EB%82%B4%EB%B0%B0%EC%BA%A0-%EC%8B%A4%EA%B0%95-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-1)
+- [[내배캠 실강] 서버리스 백엔드 1](https://velog.io/@pc_jin/%EB%82%B4%EB%B0%B0%EC%BA%A0-%EC%8B%A4%EA%B0%95-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-2)
 
 <!--VELOG:END-->
 
