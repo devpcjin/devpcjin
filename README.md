@@ -61,6 +61,8 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 
 ### ✒ Latest Post in Velog
 <!--VELOG:START-->
+- [[TIL] 20220603 캠프 47일차](https://velog.io/@pc_jin/TIL-20220603-%EC%BA%A0%ED%94%84-47%EC%9D%BC%EC%B0%A8)
+
 - [[TIL] 20220602 캠프 46일차](https://velog.io/@pc_jin/TIL-20220602-%EC%BA%A0%ED%94%84-46%EC%9D%BC%EC%B0%A8)
 
 - [[내배캠 실강] 서버리스 배포자동화 2](https://velog.io/@pc_jin/%EB%82%B4%EB%B0%B0%EC%BA%A0-%EC%8B%A4%EA%B0%95-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EB%B0%B0%ED%8F%AC%EC%9E%90%EB%8F%99%ED%99%94-2)
@@ -68,8 +70,6 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 - [[TIL] 20220531 캠프 44일차](https://velog.io/@pc_jin/TIL-20220531-%EC%BA%A0%ED%94%84-44%EC%9D%BC%EC%B0%A8)
 
 - [[내배캠 실강] 서버리스 배포자동화 1](https://velog.io/@pc_jin/%EB%82%B4%EB%B0%B0%EC%BA%A0-%EC%8B%A4%EA%B0%95-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EB%B0%B0%ED%8F%AC%EC%9E%90%EB%8F%99%ED%99%94-1)
-
-- [[TIL] 20220530 캠프 43일차](https://velog.io/@pc_jin/TIL-20220530-%EC%BA%A0%ED%94%84-43%EC%9D%BC%EC%B0%A8)
 
 <!--VELOG:END-->
 
