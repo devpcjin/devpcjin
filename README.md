@@ -61,15 +61,15 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 
 ### ✒ Latest Post in Velog
 <!--VELOG:START-->
-- [[WIL] 주간 회고록 (20220606~ 20220612)](https://velog.io/@pc_jin/WIL-%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D-20220606-20220612)
+- [[TIL] 20220614 캠프 59일차](https://velog.io/@pc_jin/TIL-20220614-%EC%BA%A0%ED%94%84-59%EC%9D%BC%EC%B0%A8)
 
-- [[TIL] 20220610 캠프 55일차](https://velog.io/@pc_jin/TIL-20220610-%EC%BA%A0%ED%94%84-55%EC%9D%BC%EC%B0%A8)
+- [[Java] 자바프로그래밍 입문 1](https://velog.io/@pc_jin/Java-%EC%9E%90%EB%B0%94%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9E%85%EB%AC%B8-1)
 
-- [[TIL] 20220609 캠프 54일차](https://velog.io/@pc_jin/TIL-20220609-%EC%BA%A0%ED%94%84-54%EC%9D%BC%EC%B0%A8)
+- [[Spring] 스프링 입문 2(完)](https://velog.io/@pc_jin/Spring-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-2%E5%AE%8C)
 
-- [[TIL] 20220608 캠프 53일차](https://velog.io/@pc_jin/TIL-20220608-%EC%BA%A0%ED%94%84-53%EC%9D%BC%EC%B0%A8)
+- [[Spring] 스프링 입문 1](https://velog.io/@pc_jin/Spring-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-1)
 
-- [[TIL] 20220607 캠프 52일차](https://velog.io/@pc_jin/TIL-20220607-%EC%BA%A0%ED%94%84-52%EC%9D%BC%EC%B0%A8)
+- [[TIL] 20220613 캠프 58일차](https://velog.io/@pc_jin/TIL-20220613-%EC%BA%A0%ED%94%84-58%EC%9D%BC%EC%B0%A8)
 
 <!--VELOG:END-->
 
