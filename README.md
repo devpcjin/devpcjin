@@ -61,15 +61,15 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 
 ### ✒ Latest Post in Velog
 <!--VELOG:START-->
+- [[TIL] 20220616 캠프 61일차](https://velog.io/@pc_jin/TIL-20220616-%EC%BA%A0%ED%94%84-61%EC%9D%BC%EC%B0%A8)
+
+- [[Java] 클래스와 객체 2](https://velog.io/@pc_jin/Java-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EA%B0%9D%EC%B2%B4-2)
+
 - [[TIL] 20220615 캠프 60일차](https://velog.io/@pc_jin/TIL-20220615-%EC%BA%A0%ED%94%84-60%EC%9D%BC%EC%B0%A8)
 
-- [[Java] 생성자 / 참조 자료형 / 정보은닉](https://velog.io/@pc_jin/Java-%EC%83%9D%EC%84%B1%EC%9E%90-%EC%B0%B8%EC%A1%B0-%EC%9E%90%EB%A3%8C%ED%98%95-%EC%A0%95%EB%B3%B4%EC%9D%80%EB%8B%89)
+- [[Java] 클래스와 객체 1](https://velog.io/@pc_jin/Java-%EC%83%9D%EC%84%B1%EC%9E%90-%EC%B0%B8%EC%A1%B0-%EC%9E%90%EB%A3%8C%ED%98%95-%EC%A0%95%EB%B3%B4%EC%9D%80%EB%8B%89)
 
 - [[TIL] 20220614 캠프 59일차](https://velog.io/@pc_jin/TIL-20220614-%EC%BA%A0%ED%94%84-59%EC%9D%BC%EC%B0%A8)
-
-- [[Java] 클래스와 객체](https://velog.io/@pc_jin/Java-%EC%9E%90%EB%B0%94%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9E%85%EB%AC%B8-1)
-
-- [[Spring] 스프링 입문 2 (完)](https://velog.io/@pc_jin/Spring-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-2%E5%AE%8C)
 
 <!--VELOG:END-->
 
