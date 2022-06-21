@@ -61,15 +61,15 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 
 ### ✒ Latest Post in Velog
 <!--VELOG:START-->
+- [[JPA] 영속성 관리](https://velog.io/@pc_jin/JPA-%EC%98%81%EC%86%8D%EC%84%B1-%EA%B4%80%EB%A6%AC)
+
+- [[TIL] 20220620 캠프 65일차](https://velog.io/@pc_jin/TIL-20220620-%EC%BA%A0%ED%94%84-65%EC%9D%BC%EC%B0%A8)
+
+- [[Java] 배열과 ArrayList](https://velog.io/@pc_jin/Java-%EB%B0%B0%EC%97%B4%EA%B3%BC-ArrayList)
+
 - [[JPA] JPA 시작하기](https://velog.io/@pc_jin/JPA-JPA-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
 
 - [[WIL] 주간 회고록 (20220606~ 20220612)](https://velog.io/@pc_jin/WIL-%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D-20220606-20220612-4770c3cu)
-
-- [[TIL] 20220617 캠프 62일차](https://velog.io/@pc_jin/TIL-20220617-%EC%BA%A0%ED%94%84-62%EC%9D%BC%EC%B0%A8)
-
-- [[Spring] SpringSecurity와 JWT](https://velog.io/@pc_jin/Spring-SpringSecurity%EC%99%80-JWT)
-
-- [[TIL] 20220616 캠프 61일차](https://velog.io/@pc_jin/TIL-20220616-%EC%BA%A0%ED%94%84-61%EC%9D%BC%EC%B0%A8)
 
 <!--VELOG:END-->
 
