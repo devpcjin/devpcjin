@@ -61,15 +61,15 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 
 ### ✒ Latest Post in Velog
 <!--VELOG:START-->
+- [[Java] 상속과 다형성](https://velog.io/@pc_jin/Java-%EC%83%81%EC%86%8D%EA%B3%BC-%EB%8B%A4%ED%98%95%EC%84%B1)
+
+- [[JPA] 엔티티 매핑](https://velog.io/@pc_jin/JPA-%EC%97%94%ED%8B%B0%ED%8B%B0-%EB%A7%A4%ED%95%91)
+
+- [[TIL] 20220621 캠프 66일차](https://velog.io/@pc_jin/TIL-20220621-%EC%BA%A0%ED%94%84-66%EC%9D%BC%EC%B0%A8)
+
 - [[JPA] 영속성 관리](https://velog.io/@pc_jin/JPA-%EC%98%81%EC%86%8D%EC%84%B1-%EA%B4%80%EB%A6%AC)
 
 - [[TIL] 20220620 캠프 65일차](https://velog.io/@pc_jin/TIL-20220620-%EC%BA%A0%ED%94%84-65%EC%9D%BC%EC%B0%A8)
-
-- [[Java] 배열과 ArrayList](https://velog.io/@pc_jin/Java-%EB%B0%B0%EC%97%B4%EA%B3%BC-ArrayList)
-
-- [[JPA] JPA 시작하기](https://velog.io/@pc_jin/JPA-JPA-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
-
-- [[WIL] 주간 회고록 (20220606~ 20220612)](https://velog.io/@pc_jin/WIL-%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D-20220606-20220612-4770c3cu)
 
 <!--VELOG:END-->
 
