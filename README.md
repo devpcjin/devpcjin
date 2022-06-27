@@ -61,6 +61,8 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 
 ### ✒ Latest Post in Velog
 <!--VELOG:START-->
+- [[WIL] 주간 회고록 (20220620~ 20220627)](https://velog.io/@pc_jin/WIL-%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D-20220620-20220627)
+
 - [[TIL] 20220624 캠프 69일차](https://velog.io/@pc_jin/TIL-20220624-%EC%BA%A0%ED%94%84-69%EC%9D%BC%EC%B0%A8)
 
 - [[TIL] 20220623 캠프 68일차](https://velog.io/@pc_jin/TIL-20220623-%EC%BA%A0%ED%94%84-68%EC%9D%BC%EC%B0%A8)
@@ -68,8 +70,6 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 - [[Java] 상속과 다형성 2](https://velog.io/@pc_jin/Java-%EC%83%81%EC%86%8D%EA%B3%BC-%EB%8B%A4%ED%98%95%EC%84%B1-2)
 
 - [[TIL] 20220622 캠프 67일차](https://velog.io/@pc_jin/TIL-20220621-%EC%BA%A0%ED%94%84-66%EC%9D%BC%EC%B0%A8-55ywrxwo)
-
-- [[Java] 상속과 다형성 1](https://velog.io/@pc_jin/Java-%EC%83%81%EC%86%8D%EA%B3%BC-%EB%8B%A4%ED%98%95%EC%84%B1)
 
 <!--VELOG:END-->
 
