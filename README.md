@@ -61,15 +61,15 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 
 ### ✒ Latest Post in Velog
 <!--VELOG:START-->
+- [[TIL] 20221011](https://velog.io/@pc_jin/TIL-20221011)
+
+- [[Error] Could not find method compile()](https://velog.io/@pc_jin/Error-Could-not-find-method-compile)
+
+- [[SpringBoot] build.gradle 설정하기](https://velog.io/@pc_jin/SpringBoot-build.gradle-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+
+- [[Programmers] 120808. 분수의 덧셈](https://velog.io/@pc_jin/Programmers-120808.-%EB%B6%84%EC%88%98%EC%9D%98-%EB%8D%A7%EC%85%88)
+
 - [20220906 TIL](https://velog.io/@pc_jin/20220906-TIL)
-
-- [[DB] 정규화 (Normalization)1](https://velog.io/@pc_jin/DB-%EC%A0%95%EA%B7%9C%ED%99%94-Normalization1)
-
-- [[TIL] 20220804 캠프 110일차](https://velog.io/@pc_jin/TIL-20220803-%EC%BA%A0%ED%94%84-109%EC%9D%BC%EC%B0%A8)
-
-- [[TIL] 20220802 캠프 108일차](https://velog.io/@pc_jin/TIL-20220802-%EC%BA%A0%ED%94%84-108%EC%9D%BC%EC%B0%A8)
-
-- [[WIL] 주간 회고록 (20220725~ 20220731)](https://velog.io/@pc_jin/WIL-%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D-20220725-20220731)
 
 <!--VELOG:END-->
 
