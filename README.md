@@ -61,15 +61,15 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 
 ### ✒ Latest Post in Velog
 <!--VELOG:START-->
+- [[SpringBoot] 테스트 코드 작성하기 - 롬복 기능 테스트](https://velog.io/@pc_jin/SpringBoot-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0-%EB%A1%AC%EB%B3%B5-%EA%B8%B0%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8)
+
+- [[SpringBoot] 테스트 코드 작성하기 - 기초](https://velog.io/@pc_jin/SpringBoot-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0-%EA%B8%B0%EC%B4%88)
+
+- [[SpringBoot] Main class](https://velog.io/@pc_jin/SpringBoot-Main-class)
+
 - [[TIL] 20221011](https://velog.io/@pc_jin/TIL-20221011)
 
 - [[Error] Could not find method compile()](https://velog.io/@pc_jin/Error-Could-not-find-method-compile)
-
-- [[SpringBoot] build.gradle 설정하기](https://velog.io/@pc_jin/SpringBoot-build.gradle-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
-
-- [[Programmers] 120808. 분수의 덧셈](https://velog.io/@pc_jin/Programmers-120808.-%EB%B6%84%EC%88%98%EC%9D%98-%EB%8D%A7%EC%85%88)
-
-- [20220906 TIL](https://velog.io/@pc_jin/20220906-TIL)
 
 <!--VELOG:END-->
 
