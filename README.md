@@ -61,15 +61,15 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 
 ### ✒ Latest Post in Velog
 <!--VELOG:START-->
+- [[TIL] 20221017](https://velog.io/@pc_jin/TIL-20221017)
+
+- [[Java] 문자열 비교 - ==과 equals()](https://velog.io/@pc_jin/vs-equals)
+
+- [[TIL] 20221016](https://velog.io/@pc_jin/TIL-20221016)
+
 - [[TIL] 20221014](https://velog.io/@pc_jin/TIL-20221014)
 
-- [[Algorithm] 배열 - 얕은 복사, 깊은 복사](https://velog.io/@pc_jin/Algorithm-%EB%B0%B0%EC%97%B4-%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC-%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC)
-
-- [[TIL] 20221013](https://velog.io/@pc_jin/TIL-20221013)
-
-- [[Algorithm] Java - 문자열](https://velog.io/@pc_jin/Algorithm-Java-%EB%AC%B8%EC%9E%90%EC%97%B4)
-
-- [[SpringBoot] JPA Auditing](https://velog.io/@pc_jin/SpringBoot-JPA-Auditing)
+- [[Java] 배열 - 얕은 복사, 깊은 복사](https://velog.io/@pc_jin/Algorithm-%EB%B0%B0%EC%97%B4-%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC-%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC)
 
 <!--VELOG:END-->
 
