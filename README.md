@@ -61,15 +61,15 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 
 ### ✒ Latest Post in Velog
 <!--VELOG:START-->
-- [[TIL] 221018](https://velog.io/@pc_jin/TIL-221018)
+- [[TIL] 20221020](https://velog.io/@pc_jin/TIL-20221020)
+
+- [[TIL] 20221019](https://velog.io/@pc_jin/TIL-20221019)
+
+- [[TIL] 20221018](https://velog.io/@pc_jin/TIL-221018)
 
 - [[Java] StringTokenizer](https://velog.io/@pc_jin/Java-StringTokenizer)
 
 - [[TIL] 20221017](https://velog.io/@pc_jin/TIL-20221017)
-
-- [[Java] 문자열 비교 - ==과 equals()](https://velog.io/@pc_jin/vs-equals)
-
-- [[TIL] 20221016](https://velog.io/@pc_jin/TIL-20221016)
 
 <!--VELOG:END-->
 
