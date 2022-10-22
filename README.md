@@ -61,6 +61,8 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 
 ### ✒ Latest Post in Velog
 <!--VELOG:START-->
+- [[TIL] 20221022](https://velog.io/@pc_jin/TIL-20221022)
+
 - [[TIL] 20221021](https://velog.io/@pc_jin/TIL-20221021)
 
 - [[TIL] 20221020](https://velog.io/@pc_jin/TIL-20221020)
@@ -68,8 +70,6 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 - [[TIL] 20221019](https://velog.io/@pc_jin/TIL-20221019)
 
 - [[TIL] 20221018](https://velog.io/@pc_jin/TIL-221018)
-
-- [[Java] StringTokenizer](https://velog.io/@pc_jin/Java-StringTokenizer)
 
 <!--VELOG:END-->
 
