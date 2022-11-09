@@ -61,15 +61,15 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 
 ### ✒ Latest Post in Velog
 <!--VELOG:START-->
+- [[TIL] 20221109](https://velog.io/@pc_jin/TIL-20221109)
+
+- [[Vue] nested router](https://velog.io/@pc_jin/Vue-nested-router)
+
 - [[Kotlin] 코틀린이란?](https://velog.io/@pc_jin/Kotlin-%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%B4%EB%9E%80)
 
 - [[TIL] 20221029](https://velog.io/@pc_jin/TIL-20221029)
 
 - [[TIL] 20221027](https://velog.io/@pc_jin/TIL-20221027)
-
-- [[TIL] 20221026](https://velog.io/@pc_jin/TIL-20221026)
-
-- [[TIL] 20221025](https://velog.io/@pc_jin/TIL-20221025)
 
 <!--VELOG:END-->
 
