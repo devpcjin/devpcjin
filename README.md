@@ -61,6 +61,8 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 
 ### ✒ Latest Post in Velog
 <!--VELOG:START-->
+- [[Kotlin] 코틀린 언어 기초](https://velog.io/@pc_jin/Kotlin-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%96%B8%EC%96%B4-%EA%B8%B0%EC%B4%88)
+
 - [[TIL] 20221109](https://velog.io/@pc_jin/TIL-20221109)
 
 - [[Vue] nested router](https://velog.io/@pc_jin/Vue-nested-router)
@@ -68,8 +70,6 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 - [[Kotlin] 코틀린이란?](https://velog.io/@pc_jin/Kotlin-%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%B4%EB%9E%80)
 
 - [[TIL] 20221029](https://velog.io/@pc_jin/TIL-20221029)
-
-- [[TIL] 20221027](https://velog.io/@pc_jin/TIL-20221027)
 
 <!--VELOG:END-->
 
