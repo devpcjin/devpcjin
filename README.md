@@ -61,15 +61,15 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 
 ### ✒ Latest Post in Velog
 <!--VELOG:START-->
+- [[JavaScript] 비동기 처리](https://velog.io/@pc_jin/JavaScript-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%B2%98%EB%A6%AC)
+
+- [[JavaScript] 옵셔널 체이닝](https://velog.io/@pc_jin/JavaScript-%EC%98%B5%EC%85%94%EB%84%90-%EC%B2%B4%EC%9D%B4%EB%8B%9D)
+
+- [[JavaScript] undefined와 null](https://velog.io/@pc_jin/JavaScript-undefined%EC%99%80-null)
+
 - [[Vue3] v-bind와 v-model](https://velog.io/@pc_jin/Vue3-v-bind%EC%99%80-v-model)
 
 - [[API 활용] Slack Webhook + Kotlin + SpringBoot](https://velog.io/@pc_jin/API-%ED%99%9C%EC%9A%A9-Slack-Webhook-Kotlin-SpringBoot)
-
-- [[Kotlin] 문자열](https://velog.io/@pc_jin/Kotlin-%EB%AC%B8%EC%9E%90%EC%97%B4)
-
-- [[Kotlin] 기본문법](https://velog.io/@pc_jin/Kotlin-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%96%B8%EC%96%B4-%EA%B8%B0%EC%B4%88)
-
-- [[TIL] 20221109](https://velog.io/@pc_jin/TIL-20221109)
 
 <!--VELOG:END-->
 
