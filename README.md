@@ -61,6 +61,8 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 
 ### ✒ Latest Post in Velog
 <!--VELOG:START-->
+- [[TIL] 20221228](https://velog.io/@pc_jin/TIL-20221228)
+
 - [[TIL] 20221226](https://velog.io/@pc_jin/TIL-20221226)
 
 - [[Vue] class binding](https://velog.io/@pc_jin/Vue-class-binding)
@@ -68,8 +70,6 @@ I am a Junior Software Developer practicing to be a Full Stack Developer.
 - [[Vue] emit 사용하기](https://velog.io/@pc_jin/Vue-emit-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 
 - [[Vue3] 반응성](https://velog.io/@pc_jin/Vue3-%EB%B0%98%EC%9D%91%EC%84%B1)
-
-- [[JavaScript] Promise](https://velog.io/@pc_jin/JavaScript-Promise)
 
 <!--VELOG:END-->
 
